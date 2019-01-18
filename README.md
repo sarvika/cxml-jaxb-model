@@ -1,12 +1,10 @@
-# cXML JAXB Model
-
-This repository contains the [cXML 1.2.024](http://cxml.org/) spec in an Object form to faciliate integration with any kind of cXML purposes (PuncOut, Purchase Order, etc).
+This repository contains the [cXML 1.2.024](http://cxml.org/) spec in an Object form to faciliate integration with any kind of cXML purposes (PunchOut, Purchase Order, etc).
 
 Complete details about the package and it's classes can be found in the [Javadoc](docs).
 
 ---
 
-## Include as a Maven Dependency
+# Include as a Maven Dependency
 
 Add the following in your `pom.xml` so that your project is aware of [our artifact repository](https://opensource.sarvika.com/maven-repo/).
 
